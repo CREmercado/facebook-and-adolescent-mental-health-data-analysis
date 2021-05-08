@@ -1,0 +1,20 @@
+﻿Escuela,4,Grado,3,Tamaño,,38,,Escuela,8,Grado,2,Tamño,,40,,Escuela,8,Grado,3,Tamaño,,23,
+Palabras,,Interpretaciones,,,,,,Palabras,,Interpretaciones,,,,,,Palabras,,Interpretaciones,,,,,
+Id_Palabra,Plabra,1,,2,,3,,Id_Palabra,Palabra,1,,2,,3,,Id_Palabra,Palabra,1,,2,,3,
+1,embarazo,bebé,9,mujer,5,calentura,3,1,embarazo,bebé,14,familia,11,hijo,7,1,embarazo,aborto,7,responsabilidad,7,no deseado,3
+2,acoso,mujer,8,sexual,4,violencia,4,2,acoso,incomodidad,9,violación,9,golpes,4,2,acoso,bullying,6,agresión,4,observación,3
+3,futuro,estudios,4,tecnología,4,trabajo,4,3,futuro,metas,12,estudios,7,familia,6,3,futuro,trabajo,9,estudios,7,metas,6
+4,emociones,felicidad,13,tristeza,10,amor,5,4,emociones,sentimientos,16,felicidad,9,amor,6,4,emociones,felicidad,11,alegría,5,confusión,5
+5,drogas,adicción,13,muerte,8,narcotráfico,3,5,drogas,adicción,15,peligro,6,adolescentes,5,5,drogas,adicción,16,alucinación,5,perdición,4
+6,alcohol,fiesta,5,accidentes,4,borracho,4,6,alcohol,fiesta,16,diversión,4,cruda,3,6,alcohol,fiesta,8,vicio,8,borracho,3
+7,fiestas,alcohol,15,diversión,11,drogas,5,7,fiestas,diversión,18,alcohol,13,música,6,7,fiestas,diversión,13,drogas,5,alcohol,4
+8,"novio, novia",amor,12,confianza,3,dinero,3,8,"novio, novia",desconfianza,9,tóxica,9,amor,8,8,"novio, novia",sentimientos,8,afecto,6,amor,5
+9,sexo,embarazo,7,género,4,hombre,3,9,sexo,condón,8,hijos,8,bebé,6,9,sexo,confianza,7,embarazo,6,amor,4
+10,autoestima,alta,14,baja,10,suicidio,5,10,autoestima,baja,22,alta,4,amor propio,4,10,autoestima,buena,4,alta,3,emociones,2
+11,tecnología,celular,10,futuro,8,china,5,11,tecnología,celular,11,redes sociales,6,videojuegos,5,11,tecnología,celular,5,información,5,videojuegos,5
+12,padres,amor,7,cariño,4,confianza,4,12,padres,responsabilidad,8,amor,6,regaños,6,12,padres,apoyo,9,consejos,6,castigos,4
+13,hogar,familia,6,tranquilidad,5,comodidad,4,13,hogar,protección,7,comodidad,6,familia,6,13,hogar,refugio,8,familia,7,comodidad,6
+14,conflictos,pelea,18,golpes,6,amigos,2,14,conflictos,pelea,19,miedo,7,golpes,4,14,conflictos,golpes,9,diálogo,6,pelea,4
+15,depresión,tristeza,8,música,7,autoestima baja,4,15,depresión,autoestima baja,10,suicidio,7,falta de padres,3,15,depresión,suicidio,5,tristeza,5,llorar,4
+16,orientación sexual,información,4,papás,3,protección,3,16,orientación sexual,apoyo,9,aceptación,6,prevención,5,16,orientación sexual,información,6,heterosexual,4,homosexual,3
+17,confianza,amigos,17,mamá,8,familia,5,17,confianza,amigos,18,apoyo,7,seguridad,7,17,confianza,amigos,18,papás,7,familia,5

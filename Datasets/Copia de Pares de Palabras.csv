@@ -1,0 +1,154 @@
+Pares,FrEstC,IDP,IDI,Ed,Esc,Gra,ApEs,BoolEs,FrEs,StEs,LEs,ApGen,BoolGen,FrGen,StGen,LGen,Face,FrFace,SF,LF,SFBool
+embarazo y bebé,9,1,71,14,4,3,1,true,1,0,44416,1,true,6,0,300,1,7,0,6602,1
+embarazo y mujer,5,1,385,14,4,3,0,false,0,0,0,1,true,10,0.028333334,237,1,10,0.028333334,237,1.028333334
+embarazo y calentura,3,1,89,14,4,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+acoso y mujeres,8,2,387,14,4,3,0,false,0,0,0,1,true,37,0.180651105,128,1,37,0.180651105,128,1.180651105
+acoso y sexual,4,2,541,15,4,3,0,false,0,0,0,1,true,22,0.383367768,70,1,22,0.383367768,70,1.383367768
+acoso y violencia,4,2,605,14,4,3,0,false,0,0,0,1,true,29,0.152873563,122,1,29,0.152873563,122,1.152873563
+futuro y estudios,4,3,233,14,4,3,1,true,1,0.15,1188,1,true,1,0.7,20454,1,2,0.425,10821,1.425
+futuro y tecnología,4,3,559,14,4,3,0,false,0,0,0,1,true,29,0.052455591,299,1,29,0.052455591,299,1.052455591
+futuro y trabajo,4,3,583,14,4,3,0,false,0,0,0,1,true,81,0.005471381,345,1,81,0.005471381,345,1.005471381
+emociones y felicidad,13,4,247,14,4,3,0,false,0,0,0,1,true,2,0,13,1,2,0,13,1
+emociones y tristeza,10,4,588,14,4,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+emociones y amor,5,4,43,14,4,3,1,true,1,-0.8,31956,1,true,1,0,15,1,2,-0.4,15985,0.6
+drogas y adicción,13,5,18,14,4,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+drogas y muerte,8,5,384,14,4,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+drogas y narcotrafico,3,5,392,14,4,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+alcohol y fiesta,5,6,254,14,4,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+alcohol y accidentes,4,6,9,14,4,3,0,false,0,0,0,1,true,4,0,18,1,4,0,18,1
+alcohol y borracho,4,6,78,14,4,3,1,true,1,0,12799,0,false,0,0,0,1,1,0,12799,1
+fiesta y alcohol,15,7,26,14,4,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+fiesta y diversión,11,7,205,14,4,3,0,false,0,0,0,1,true,5,0,13,1,5,0,13,1
+fiesta y drogas,5,7,212,14,4,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+"novio, novia y amor",12,8,43,14,4,3,1,true,5,0,5622,1,true,6,0.083333333,402,1,11,0.045454545,2775,1.045454545
+"novio, novia y confianza",3,8,137,14,4,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+"novio, novia y dinero",3,8,200,14,4,3,1,true,1,0.15,78757,1,true,1,0.15,78757,1,2,0.15,78757,1.15
+sexo y embarazo,7,9,218,14,4,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+sexo y género,4,9,266,14,4,3,0,false,0,0,0,1,true,1,0,1,1,1,0,1,1
+sexo y hombre,3,9,296,14,4,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+autoestima y alta,14,10,32,14,4,3,0,false,0,0,0,1,true,1,0,18,1,1,0,18,1
+autoestima y baja,10,10,69,14,4,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+autoestima y suicidio,5,10,556,14,4,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+tecnología y celular,10,11,109,14,4,3,0,false,0,0,0,1,true,7,0.001428571,86,1,7,0.001428571,86,1.001428571
+tecnología y futuro,8,11,263,14,4,3,0,false,0,0,0,1,true,29,0.052455591,299,1,29,0.052455591,299,1.052455591
+tecnología y china,5,11,113,14,4,3,0,false,0,0,0,1,true,7,0.073809523,34,1,7,0.073809523,34,1.073809523
+padres y amor,7,12,43,14,4,3,1,true,3,0.066666667,2823,1,true,3,0,309,1,6,0.033333333,1566,1.033333333
+padres y cariño,4,12,98,14,4,3,0,false,0,0,0,1,true,2,0.025,61819,1,2,0.025,61819,1.025
+padres y confianza,4,12,137,14,4,3,0,false,0,0,0,1,true,1,-0.11666667,819,1,1,-0.11666667,819,0.88333333
+hogar y familia,6,13,244,14,4,3,1,true,5,0,4564,1,true,71,0.060275288,663,1,76,0.056309809,919,1.056309809
+hogar y tranquilidad,5,13,587,14,4,3,0,false,0,0,0,1,true,1,0,751,1,1,0,751,1
+hogar y comodidad,4,13,124,14,4,3,0,false,0,0,0,1,true,15,0.022424243,226,1,15,0.022424243,226,1.022424243
+conflictos y pelea,18,14,440,14,4,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+conflictos y golpes,6,14,272,14,4,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+conflictos y amigos,2,14,40,14,4,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+depresión y tristeza,8,15,588,14,4,3,0,false,0,0,0,1,true,4,-0.025,213,1,4,-0.025,213,0.975
+depresión y música,7,15,388,15,4,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+depresión y autoestima baja,4,15,60,14,4,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+orientación sexual y información,4,16,314,14,4,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+orientación sexual y papás,3,16,427,14,4,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+orientación sexual y protección,3,16,485,14,4,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+confianza y amigos,17,17,40,14,4,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+confianza y mamá,8,17,357,14,4,3,0,false,0,0,0,1,true,12,0.004166667,15225,1,12,0.004166667,15225,1.004166667
+confianza y familia,5,17,244,14,4,3,1,true,2,0,2358,1,true,8,-0.045454545,669,1,10,-0.036363636,1007,0.963636364
+embarazo y bebé,14,1,71,13,8,2,1,true,1,0,44416,1,true,6,0,300,1,7,0,6602,1
+embarazo y familia,11,1,244,13,8,2,0,false,0,0,0,1,true,2,0,8,1,2,0,8,1
+embarazo y hijo,7,1,293,13,8,2,0,false,0,0,0,1,true,3,0,40,1,3,0,40,1
+acoso y incomodidad,9,2,310,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+acoso y violación,9,2,604,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+acoso y golpes,4,2,272,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+futuro y metas,12,3,372,14,8,2,0,false,0,0,0,1,true,3,0.3,494,1,3,0.3,494,1.3
+futuro y estudios,7,3,233,13,8,2,1,true,1,0.15,1188,1,true,1,0.7,20454,1,2,0.425,10821,1.425
+futuro y familia,6,3,244,13,8,2,1,true,1,0,14259,1,true,40,0.0703125,296,1,41,0.068597561,637,1.068597561
+emociones y sentimientos,16,4,537,14,8,2,0,false,0,0,0,1,true,1,0,55,1,1,0,55,1
+emociones y felicidad,9,4,247,13,8,2,0,false,0,0,0,1,true,2,0,13,1,2,0,13,1
+emociones y amor,6,4,43,13,8,2,1,true,1,-0.8,31956,1,true,1,0,15,1,2,-0.4,15985,0.6
+drogas y adicción,15,5,18,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+drogas y peligro,6,5,442,14,8,2,0,false,0,0,0,1,true,2,0.09375,228,1,2,0.09375,228,1.09375
+drogas y adolescentes,5,5,21,14,8,2,0,false,0,0,0,1,true,1,0.5,16777,1,1,0.5,16777,1.5
+alcohol y fiesta,16,6,254,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+alcohol y diversión,4,6,205,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+alcohol y cruda,3,6,165,14,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+fiesta y diversión,18,7,205,13,8,2,0,false,0,0,0,1,true,5,0,13,1,5,0,13,1
+fiesta y alcohol,13,7,26,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+fiesta y música,6,7,388,13,8,2,1,true,3,0,26437,1,true,30,0.008939394,152,1,33,0.008126722,2542,1.008126722
+"novio, novia y desconfianza",9,8,183,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+"novio, novia y tóxica",9,8,578,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+"novio, novia y amor",8,8,43,13,8,2,1,true,5,0,5622,1,true,6,0.083333333,402,1,11,0.045454545,2775,1.045454545
+sexo y condón,8,9,135,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+sexo y hijos,8,9,294,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+sexo y bebé,6,9,71,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+autoestima y baja,22,10,69,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+autoestima y alta,4,10,32,13,8,2,0,false,0,0,0,1,true,1,0,18,1,1,0,18,1
+autoestima y amor propio,4,10,44,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+tecnología y celular,11,11,109,13,8,2,0,false,0,0,0,1,true,7,0.001428571,86,1,7,0.001428571,86,1.001428571
+tecnología y redes sociales,6,11,498,14,8,2,1,true,2,0.16666667,4077,0,false,0,0,0,1,2,0.16666667,4077,1.16666667
+tecnología y videojuegos,5,11,601,13,8,2,0,false,0,0,0,1,true,2,0,380,1,2,0,380,1
+padres y responsabilidad,8,12,513,13,8,2,0,false,0,0,0,1,true,1,0,20763,1,1,0,20763,1
+padres y amor,6,12,43,13,8,2,1,true,3,0.066666667,2823,1,true,3,0,309,1,6,0.033333333,1566,1.033333333
+padres y regaños,6,12,500,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+hogar y protección,7,13,485,14,8,2,0,false,0,0,0,1,true,8,0.046527778,47,1,8,0.046527778,47,1.046527778
+hogar y comodidad,6,13,124,13,8,2,0,false,0,0,0,1,true,15,0.022424243,226,1,15,0.022424243,226,1.022424243
+hogar y familia,6,13,244,13,8,2,1,true,5,0,4564,1,true,71,0.060275288,663,1,76,0.056309809,919,1.056309809
+conflictos y pelea,19,14,440,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+conflictos y miedo,7,14,376,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+conflictos y golpes,4,14,272,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+depresión y autoestima baja,10,15,60,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+depresión y suicidio,7,15,556,14,8,2,0,false,0,0,0,1,true,1,-0.1,29,1,1,-0.1,29,0.9
+depresión y falta de padres,3,15,242,14,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+orientación sexual y apoyo,9,16,51,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+orientación sexual y aceptación,6,16,10,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+orientación sexual y prevención,5,16,478,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+confianza y amigos,18,17,40,13,8,2,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+confianza y apoyo,7,17,51,13,8,2,1,true,1,0.8,5484,1,true,8,-0.06875,7619,1,9,0.027777778,7381,1.027777778
+confianza y seguridad,7,17,535,13,8,2,0,false,0,0,0,1,true,8,0,8691,1,8,0,8691,1
+embarazo y aborto,7,1,3,14,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+embarazo y responsabilidad,7,1,513,15,8,3,0,false,0,0,0,1,true,1,0.05,13,1,1,0.05,13,1.05
+embarazo y no deseado,3,1,402,14,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+acoso y bullying,6,2,85,14,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+acoso y agresión,4,2,24,15,8,3,0,false,0,0,0,1,true,3,0.077777778,18,1,3,0.077777778,18,1.077777778
+acoso y observación,3,2,418,15,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+futuro y trabajo,9,3,583,15,8,3,0,false,0,0,0,1,true,81,0.005471381,345,1,81,0.005471381,345,1.005471381
+futuro y estudios,7,3,233,15,8,3,1,true,1,0.15,1188,1,true,1,0.7,20454,1,2,0.425,10821,1.425
+futuro y metas,6,3,372,15,8,3,0,false,0,0,0,1,true,3,0.3,494,1,3,0.3,494,1.3
+emociones y felicidad,11,4,247,14,8,3,0,false,0,0,0,1,true,2,0,13,1,2,0,13,1
+emociones y alegría,5,4,27,15,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+emociones y confusión,5,4,141,14,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+drogas y adicción,16,5,18,14,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+drogas y alucinación,5,5,33,15,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+drogas y perdición,4,5,448,15,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+alcohol y fiesta,8,6,254,14,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+alcohol y vicio,8,6,597,14,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+alcohol y borracho,3,6,78,15,8,3,1,true,1,0,12799,0,false,0,0,0,1,1,0,12799,1
+fiesta y diversión,13,7,205,14,8,3,0,false,0,0,0,1,true,5,0,13,1,5,0,13,1
+fiesta y drogas,5,7,212,14,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+fiesta y alcohol,4,7,26,15,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+"novio, novia y sentimientos",8,8,537,15,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+"novio, novia y afecto",6,8,23,15,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+"novio, novia y amor",5,8,43,15,8,3,1,true,5,0,5622,1,true,6,0.083333333,402,1,11,0.045454545,2775,1.045454545
+sexo y confianza,7,9,137,14,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+sexo y embarazo,6,9,218,15,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+sexo y amor,4,9,43,15,8,3,1,true,1,0.16637807,15811,1,true,2,0,3,1,3,0.055459357,5272,1.055459357
+autoestima y buena,4,10,81,15,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+autoestima y alta,3,10,32,14,8,3,0,false,0,0,0,1,true,1,0,18,1,1,0,18,1
+autoestima y emociones,2,10,222,15,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+tecnología y celular,5,11,109,15,8,3,0,false,0,0,0,1,true,7,0.001428571,86,1,7,0.001428571,86,1.001428571
+tecnología y información,5,11,314,14,8,3,1,true,2,0.05625,1971,1,true,44,0.036969697,2575,1,46,0.037807971,2549,1.037807971
+tecnología y videojuegos,5,11,601,15,8,3,0,false,0,0,0,1,true,2,0,380,1,2,0,380,1
+padres y apoyo,9,12,51,15,8,3,1,true,1,0,4843,1,true,11,0.012396695,93,1,12,0.011363637,489,1.011363637
+padres y consejos,6,12,146,14,8,3,1,true,1,0,4843,1,true,1,0,69,1,2,0,2456,1
+padres y castigos,4,12,105,15,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+hogar y refugio,8,13,499,15,8,3,0,false,0,0,0,1,true,1,0,486,1,1,0,486,1
+hogar y familia,7,13,244,15,8,3,1,true,5,0,4564,1,true,71,0.060275288,663,1,76,0.056309809,919,1.056309809
+hogar y comodidad,6,13,124,15,8,3,0,false,0,0,0,1,true,15,0.022424243,226,1,15,0.022424243,226,1.022424243
+conflictos y golpes,9,14,272,14,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+conflictos y diálogo,6,14,195,15,8,3,0,false,0,0,0,1,true,3,0.277777778,13812,1,3,0.277777778,13812,1.277777778
+conflictos y pelea,4,14,440,15,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+depresión y suicidio,5,15,556,14,8,3,0,false,0,0,0,1,true,1,-0.1,29,1,1,-0.1,29,0.9
+depresión y tristeza,5,15,588,15,8,3,0,false,0,0,0,1,true,4,-0.025,213,1,4,-0.025,213,0.975
+depresión y llorar,4,15,339,15,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+orientación sexual y información,6,16,314,15,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+orientación sexual y heterosexual,4,16,292,14,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+orientación sexual y homosexual,3,16,301,14,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+confianza y amigos,18,17,40,15,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+confianza y papás,7,17,427,15,8,3,0,false,0,0,0,0,false,0,0,0,0,0,0,0,1
+confianza y familia,5,17,244,14,8,3,1,true,2,0,2358,1,true,8,-0.045454545,669,1,10,-0.036363636,1007,0.963636364
